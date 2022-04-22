@@ -12,7 +12,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## Contributors
 
 @Kai Kiat - Cleaning and Exploratory Data Analysis
+
 @Marcus - Pre-machine Learning
+
 @Wei Ming - Machine Learning(Decision Tree, Random Forest, Neural Network)
 
 ## Problem Definition
