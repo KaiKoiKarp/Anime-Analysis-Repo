@@ -5,17 +5,16 @@
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence).
 
 
-1) Cleaning and Exploratory Data Analysis
-2) Re-machine Learning
-3) Machine Learning(Decision Tree, Random Forest, Neural Network)
+1. [Data Extraction and Cleaning](https://github.com/KaiKoiKarp/Anime-Analysis-Repo/blob/main/Data%20extraction%20and%20cleaning.ipynb)
+2. [Exploratory Data Analysis](https://github.com/KaiKoiKarp/Anime-Analysis-Repo/blob/main/Exploratory%20Data%20Analysis.ipynb)
+3. Re-machine Learning
+4. Machine Learning(Decision Tree, Random Forest, Neural Network)
 
 ## Contributors
 
-@Kai Kiat - Cleaning and Exploratory Data Analysis
-
-@Marcus - Pre-machine Learning
-
-@Wei Ming - Machine Learning(Decision Tree, Random Forest, Neural Network)
+- @Kai Kiat - Cleaning and Exploratory Data Analysis
+- @Marcus - Pre-machine Learning
+- @Wei Ming - Machine Learning(Decision Tree, Random Forest, Neural Network)
 
 ## Problem Definition
 
@@ -23,9 +22,9 @@ Are we able to predict the rating of an anime based on it’s factors?
 
 ## Models Used
 
-1) Decision Tree
-2) Random Forest
-3) Neural Networks
+1. Decision Tree
+2. Random Forest
+3. Neural Networks
 
 ## Conclusion
 
