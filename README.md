@@ -32,7 +32,7 @@ Decision Tree Classification is relatively inaccurate, they are deterministic in
 
 ## Learning Outcome
 
-todo
+- TV series anime is just as good as movie anime 
 
 ## References
 https://www.kaggle.com/datasets/vishalmane10/anime-dataset-2022
