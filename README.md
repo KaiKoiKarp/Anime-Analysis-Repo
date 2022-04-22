@@ -7,7 +7,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 1. [Data Extraction and Cleaning](https://github.com/KaiKoiKarp/Anime-Analysis-Repo/blob/main/Data%20Extraction%20and%20Cleaning.ipynb)
 2. [Exploratory Data Analysis](https://github.com/KaiKoiKarp/Anime-Analysis-Repo/blob/main/Exploratory%20Data%20Analysis.ipynb)
-3. Re-machine Learning
+3. [Pre-machine Learning](https://github.com/KaiKoiKarp/Anime-Analysis-Repo/blob/main/Pre-Machine%20Learning.ipynb)
 4. Machine Learning(Decision Tree, Random Forest, Neural Network)
 
 ## Contributors
