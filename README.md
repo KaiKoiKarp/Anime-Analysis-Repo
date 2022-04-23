@@ -66,8 +66,8 @@ MultiLayer Perceptron showed the best performance follwed by K Neighbours Classi
 
 ## References
 https://www.kaggle.com/datasets/vishalmane10/anime-dataset-2022
-https://www.analyticsvidhya.com/blog/2020/05/decision-tree-vs-random-forest-algorithm/
+https://www.analyticsvidhya.com/blog/2020/05/decision-tree-vs-random-forest-algorithm
 https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mnist-handwriting-recognition-matplotlib-a6b31e2b166a
 https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761
-https://analyticsindiamag.com/a-beginners-guide-to-scikit-learns-mlpclassifier/
+https://analyticsindiamag.com/a-beginners-guide-to-scikit-learns-mlpclassifier
 https://medium.com/analytics-vidhya/accuracy-vs-f1-score-6258237beca2
