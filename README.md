@@ -40,12 +40,13 @@ Are we able to predict the rating of an anime based on it’s factors?
 1. Accuracy
 2. F1 Score
 
-## Conclusion
+## Findings from Machine Learning
 Decision Tree Classification is relatively inaccurate, they are deterministic in the sense that there is no randomness to split the data, and they tend to overfit. Other machine learning models should be used instead.
 
 MultiLayer Perceptron showed the best performance follwed by K Neighbours Classifier, Random Forest, Logistic Regression, and lastly, Decision Tree. 
 
 ## Data Driven Insights
+Factors including genres, studio, and period affect the rating of an anime.
 1. Period:
   - Old animes generally fall in the average and good categories
   - Animes with excellent and poor ratings are typically newer animes
@@ -58,11 +59,14 @@ MultiLayer Perceptron showed the best performance follwed by K Neighbours Classi
 4. Type:
   - TV series anime is just as good as movie anime 
 
-## Learning Outcome
+## Learning Outcomes
 - Various Ways of Data Preparation
 - Various Data Visualization Techniques
 - Various Machine Learning Models
 - Drawing Meaningful Insights 
+
+## Video Link
+https://youtu.be/hS9TttjoVfA
 
 ## References
 https://www.kaggle.com/datasets/vishalmane10/anime-dataset-2022
