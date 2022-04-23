@@ -21,12 +21,13 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 Are we able to predict the rating of an anime based on it’s factors?
 
 ## Predictor Variables Used
-1. Top 15 Genres (in terms of frequency)
-2. Top 15 Studio (in terms of frequency)
-3. Period 
+1. Genres
+2. Production Studio 
+3. Period of Release
+4. Type (Movie/TV) 
 
 ## Response Variable
-1. Rating of Anime 
+1. Rating of the Anime 
 
 ## Models Used
 1. Decision Tree
