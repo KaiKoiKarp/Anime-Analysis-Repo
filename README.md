@@ -41,7 +41,7 @@ Are we able to predict the rating of an anime based on it’s factors?
 2. F1 Score
 
 ## Conclusion
-Decision Tree Classification is relatively inaccurate, they are deterministic in the sense that there is no randomness to split the data, and they tend to overfit. 
+Decision Tree Classification is relatively inaccurate, they are deterministic in the sense that there is no randomness to split the data, and they tend to overfit. Other machine learning models should be used instead.
 
 MultiLayer Perceptron showed the best performance follwed by K Neighbours Classifier, Random Forest, Logistic Regression, and lastly, Decision Tree. 
 
@@ -66,3 +66,8 @@ MultiLayer Perceptron showed the best performance follwed by K Neighbours Classi
 
 ## References
 https://www.kaggle.com/datasets/vishalmane10/anime-dataset-2022
+https://www.analyticsvidhya.com/blog/2020/05/decision-tree-vs-random-forest-algorithm/
+https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mnist-handwriting-recognition-matplotlib-a6b31e2b166a
+https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761
+https://analyticsindiamag.com/a-beginners-guide-to-scikit-learns-mlpclassifier/
+https://medium.com/analytics-vidhya/accuracy-vs-f1-score-6258237beca2
