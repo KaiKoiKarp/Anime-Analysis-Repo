@@ -47,15 +47,15 @@ MultiLayer Perceptron showed the best performance follwed by K Neighbours Classi
 
 ## Data Driven Insights
 1. Period:
-  - Old animes generally fall in the average and good category 
+  - Old animes generally fall in the average and good categories
   - Animes with excellent and poor ratings are typically newer animes
 2. Studio:
   - Studios like Shin-Ei Animation and OLM generally produce Average and Good animes 
   - Studios like Bones and A1 Picture produce Good and Excellent animes
-3. Genres
+3. Genres:
   - Based on Manga is the least important genre
   - Romance and School Life are important genres  
-4. Type
+4. Type:
   - TV series anime is just as good as movie anime 
 
 ## Learning Outcome
